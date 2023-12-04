@@ -45,7 +45,7 @@ animations = [{
 }]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_765xo"]
-radius = 36.0
+radius = 37.0
 height = 100.0
 
 [node name="Mob" type="RigidBody2D" groups=["mobs"]]
